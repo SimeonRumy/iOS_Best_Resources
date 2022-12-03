@@ -10,6 +10,7 @@ Work in progress. Will add the best resources to this repo. From Basics to Advan
 
 ## Swift UI 
 
+* [Aligment Guides](https://swiftui-lab.com/alignment-guides/)
 * [Swift UI Data Flow](https://matteomanferdini.com/swiftui-data-flow/)
 
 ## Combine
@@ -22,6 +23,8 @@ Work in progress. Will add the best resources to this repo. From Basics to Advan
 
 ## Xcode
 
+* [Xcode Shortcuts](https://betterprogramming.pub/13-xcode-shortcuts-to-boost-your-productivity-329c90512309)
+
 ## Swift
 
 * [Binary Operations](https://theswiftdev.com/practical-guide-to-binary-operations-using-the-uint8-type-in-swift/)
@@ -30,9 +33,12 @@ Work in progress. Will add the best resources to this repo. From Basics to Advan
 
 * [API Keys & Client Secrets](https://nshipster.com/secrets/)
 
+## Privacy
 
+* [App Tracking Transparency](https://developer.apple.com/videos/play/wwdc2022/10166/)
 
 ## List of blogs (rather than specific articles)
 
 * [Chris Hulbert](https://www.splinter.com.au/blog/)
 * [Matteo Manferdini](https://matteomanferdini.com)
+* [The.Swift.Dev: Tibor Bödecs](https://theswiftdev.com/)
