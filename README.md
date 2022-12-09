@@ -17,6 +17,10 @@ Work in progress. Will add the best resources to this repo. From Basics to Advan
 
 * [WWDC: Combine in Practice](https://developer.apple.com/videos/play/wwdc2019/721/)
 
+## Swift Concurrency
+
+* [Pitfalls to watch out for](https://wojciechkulik.pl/ios/swift-concurrency-things-they-dont-tell-you)
+
 ## POP
 
 * [Network Requests with POP](https://matteomanferdini.com/network-requests-rest-apis-ios-swift/)
@@ -35,7 +39,7 @@ Work in progress. Will add the best resources to this repo. From Basics to Advan
 
 ## Privacy
 
-* [App Tracking Transparency](https://developer.apple.com/videos/play/wwdc2022/10166/)
+* [WWDC: App Tracking Transparency](https://developer.apple.com/videos/play/wwdc2022/10166/)
 
 ## List of blogs (rather than specific articles)
 
