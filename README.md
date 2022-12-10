@@ -1,6 +1,7 @@
 # iOS Best Resources Collection
 
-Work in progress. Will add the best resources to this repo. From Basics to Advanced.
+Work in progress. Will add the best resources to this repo. From Fundementals to Advanced.
+
 
 ## UIKit
 
@@ -31,7 +32,12 @@ Work in progress. Will add the best resources to this repo. From Basics to Advan
 
 ## Swift
 
+* [Decimal vs Float/Double](https://www.jessesquires.com/blog/2022/02/01/decimal-vs-double/)
 * [Binary Operations](https://theswiftdev.com/practical-guide-to-binary-operations-using-the-uint8-type-in-swift/)
+* [Apple: Writing High-Performance Swift Code](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#using-container-types-efficiently)
+* [Introducing any: why protocols dont conform to self](https://forums.swift.org/t/se-0335-introduce-existential-any/53934/112)
+* [~Some~ keyword can be used to indicate a generic constraint rather than just for opaque return types](https://tanaschita.com/20220613-understanding-the-some-keyword-with-generic-protocols-in-swift/)
+* [WWDC 22: Embracing Generics #some #any](https://developer.apple.com/wwdc22/110352) 
 
 ## Security
 
