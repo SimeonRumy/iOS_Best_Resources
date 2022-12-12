@@ -26,9 +26,14 @@ Work in progress. Will add the best resources to this repo. From Fundementals to
 
 * [Network Requests with POP](https://matteomanferdini.com/network-requests-rest-apis-ios-swift/)
 
-## Xcode
+## Xcode 
 
 * [Xcode Shortcuts](https://betterprogramming.pub/13-xcode-shortcuts-to-boost-your-productivity-329c90512309)
+
+## Project Settings
+
+* [The unoficial guide to xcconfig](https://pewpewthespells.com/blog/xcconfig_guide.html)
+* [Embed vs not-embed](https://holyswift.app/frameworks-embed-or-not-embed-thats-the-question/)
 
 ## Swift
 
