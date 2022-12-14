@@ -9,6 +9,8 @@ Work in progress. Will add the best resources to this repo. From Fundementals to
 
 * [Safe Area Guide, Layout Margins, Scroll View, Readable Content Guide](https://developer.apple.com/videos/play/wwdc2018/235/) - WWDC: "UIKit: Apps for Every Size and Shape"
 
+* [WWDC 21: Making Blazing Fast Collection Views](https://developer.apple.com/videos/play/wwdc2021/10252/)
+
 ## Swift UI 
 
 * [Aligment Guides](https://swiftui-lab.com/alignment-guides/)
